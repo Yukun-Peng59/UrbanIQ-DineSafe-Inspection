@@ -36,4 +36,6 @@ UrbanIQ – Group 8
 - Jiayu Zeng (Data Lead)  
 - Yukun Peng (ML Lead)  
 - Dax Oliver Filoteo (BI Dashboards)  
-- Meixi Guo (QA & Docs)
+- Meixi Guo (Docs)
+- Prashuna Sai Surya Vishwitha Domadula (QA)
+
