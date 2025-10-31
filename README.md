@@ -24,8 +24,7 @@ requirements.txt → Python dependencies
 ## How to Reproduce
 ```bash
 pip install -r requirements.txt
-python scripts/data_ingestion.py
-python scripts/data_cleaning.py
+python scripts/data_cleaning.ipynb
 ```
 
 Outputs will be saved under `data/cleaned/`.
@@ -38,4 +37,5 @@ UrbanIQ – Group 8
 - Dax Oliver Filoteo (BI Dashboards)  
 - Meixi Guo (Docs)
 - Prashuna Sai Surya Vishwitha Domadula (QA)
+
 
