@@ -27,8 +27,6 @@ pip install -r requirements.txt
 python scripts/data_cleaning.ipynb
 ```
 
-Outputs will be saved under `data/cleaned/`.
-
 ## Team
 UrbanIQ – Group 8  
 - Chang Qin (PM)  
@@ -37,5 +35,6 @@ UrbanIQ – Group 8
 - Dax Oliver Filoteo (BI Dashboards)  
 - Meixi Guo (Docs)
 - Prashuna Sai Surya Vishwitha Domadula (QA)
+
 
 
